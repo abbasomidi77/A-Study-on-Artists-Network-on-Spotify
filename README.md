@@ -1,9 +1,5 @@
 # CPSC572 Networks Project Code
 
-## Grading Content
-In the src/ folder you will find 'scenarios.txt' that provides a full list of our scenarios and relevant content.
-It may be easier to grade the content through this file instead of playing the game to try and meet a particular story path.
-
 ## Installation
 
 Requires Python3
