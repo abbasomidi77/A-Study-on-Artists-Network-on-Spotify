@@ -4,6 +4,13 @@
 
 Requires Python3
 
+```bash
+python3 install spotipy
+```
+
+```bash
+python3 install csv
+```
 
 ## Usage
 
