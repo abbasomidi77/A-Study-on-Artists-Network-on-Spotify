@@ -19,13 +19,14 @@ To generate nodes and edges csv lists:
 ```bash
 python3 getNetwork.py
 ```
-Output as **final_edges.csv** and **final_nodes.csv** in analysis/files folder
+Output as **final_edges.csv** and **final_nodes.csv** in files folder
 
 To run path analysis:
 
 ```bash
-python3 analysis/analysis.py
+python3 analysis.py
 ```
 
-Note: input provided as **nodestats.csv** in analysis/files folder exported from Gephi after statistical and network analysis performed on nodes and edges
-Get output as **best_paths.csv** and **best_paths_scores.csv** in analysis/files folder
+Note: input provided as **nodestats.csv** in files folder exported from Gephi after statistical and network analysis performed on nodes and edges
+
+Get output as **best_paths.csv** and **best_paths_scores.csv** in files folder

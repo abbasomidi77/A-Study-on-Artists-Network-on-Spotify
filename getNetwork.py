@@ -141,8 +141,8 @@ for node in nodes_list:
 nodes_list = tmp3
 	
 # Output nodes and edges to csv files 			
-nodes_file = open('analysis/files/final_nodes.csv.csv', 'w')
-edges_file = open('analysis/files/final_edges.csv.csv', 'w')
+nodes_file = open('files/final_nodes.csv.csv', 'w')
+edges_file = open('files/final_edges.csv.csv', 'w')
 nodes_writer = csv.writer(nodes_file)
 edges_writer = csv.writer(edges_file)
 
